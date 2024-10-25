@@ -37,9 +37,12 @@ yarn-error.log*
 # video folder
 /CoinbaseCandlesVideo
 
+# eslint
 .eslintrc.json
 
+# jsconfig
 jsconfig.json
 
+# api
 /pages/api
 
