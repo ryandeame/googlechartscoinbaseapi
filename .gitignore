@@ -30,3 +30,16 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# public folder
+/public
+
+# video folder
+/CoinbaseCandlesVideo
+
+.eslintrc.json
+
+jsconfig.json
+
+/pages/api
+
